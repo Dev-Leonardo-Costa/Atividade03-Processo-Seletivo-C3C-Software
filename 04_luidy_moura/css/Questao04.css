@@ -1,0 +1,16 @@
+.menu {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.btn {
+    background-color: green;
+    color: blanchedalmond;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+.resultado{
+    font-size: 20px;
+    color: blue;
+}

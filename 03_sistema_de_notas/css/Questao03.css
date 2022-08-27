@@ -1,0 +1,26 @@
+.menu {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.btn {
+    background-color: green;
+    color: blanchedalmond;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.nota{
+    width: 20%;
+}
+
+.notaFinal{
+    color: darkblue;
+    font-size: 30px;
+}
+
+.resultado{
+    font-size: 80px;
+    color: blue;
+}
